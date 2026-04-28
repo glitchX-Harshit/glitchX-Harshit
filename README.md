@@ -1,16 +1,75 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Harshit Chaudhary</h1>
+  <h3 align="center">Full Stack + AI Systems Engineer</h3>
+  <p align="center">
+    Architecting scalable intelligence. Documenting my tech, startup, and algorithmic trading journey.
+  </p>
+  <br/>
+  <a href="mailto:hc5764802@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_YOUTUBE_URL">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
 
-<!--
-**glitchX-Harshit/glitchX-Harshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### ✦ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **BS-MS in Computer Science and Data Analytics** at IIT Patna.
+- 🚀 **Technical Founder** actively building a Generative AI B2B SaaS for real-time sales intelligence.
+- 🧠 **Focus Areas:** Advanced RAG Pipelines, Scalable Architectures (WebSockets, FastAPI), and Quantitative/SMC Algorithmic Trading Systems.
+- 🎥 **Creator:** Sharing insights on software development, AI architecture, and my founder journey.
+
+<br/>
+
+### ✦ Tech Stack
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,docker,git,vercel&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
+
+<br/>
+
+### ✦ Hackathons & Honors
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Hack_With_Mumbai_2.0-National_Finalist-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack With Mumbai" />
+  <img src="https://img.shields.io/badge/HackX_3.0-GDG_Participant-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="HackX 3.0" />
+</div>
+
+<br/>
+
+### ✦ Featured Architecture
+
+- **Hexagon AI Sales Agent:** Real-time conversational AI handling live audio streams with <300ms latency via FastAPI and WebSockets.
+- **Intelligent RAG System:** Production-grade system parsing 10K+ documents using LangChain, Pinecone, and OpenAI.
+- **Quantitative Trading Engine:** Python-based algorithmic system integrating MetaTrader5 for real-time data streams and strategy backtesting.
+- **Luxury Interactive Portfolio:** Ultra-minimalist, high-end UI built with Next.js, GSAP, and Three.js, maintaining a 90+ Lighthouse score.
+
+<br/>
+
+### ✦ System Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+### ✦ Contribution Matrix
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
