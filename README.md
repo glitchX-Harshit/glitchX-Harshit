@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Hack_With_Mumbai_2.0-National_Finalist-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack With Mumbai" />
-  <img src="https://img.shields.io/badge/HackX_3.0-GDG_Participant-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="HackX 3.0" />
+  <img src="https://img.shields.io/badge/HackX_3.0-GDG_Participant-000000?style=for-the-badge&logo=google&logoColor=white" alt="HackX 3.0" />
 </div>
 
 <br/>
@@ -57,10 +57,9 @@
 
 ### ✦ System Metrics
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glitchX-Harshit&hide_border=true&show_icons=true&include_all_commits=true&bg_color=FFFFFF&title_color=000000&text_color=333333&icon_color=000000" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchX-Harshit&hide_border=true&layout=compact&bg_color=FFFFFF&title_color=000000&text_color=333333" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glitchX-Harshit&hide_border=true&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchX-Harshit&hide_border=true&layout=compact&bg_color=000000&title_color=ffffff&text_color=a3a3a3" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
