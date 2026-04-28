@@ -57,9 +57,11 @@
 
 ### ✦ System Metrics
 
+### ✦ System Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glitchX-Harshit&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchX-Harshit&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
