@@ -246,7 +246,7 @@ fun_fact: >
 <br/><br/>
 
 <!-- Streak stats — using git.io/streak-stats (active replacement for the defunct herokuapp) -->
-<img src="https://streak-stats.demolab.com?user=glitchX-Harshit&theme=transparent&hide_border=true&background=0D0D0D&ring=6e40c9&fire=6e40c9&currStreakLabel=ffffff&sideLabels=888888&dates=666666&border_radius=12&stroke=1a1a2e" width="70%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=glitchX-Harshit&theme=tokyonight&hide_border=true&background=0D0D0D&ring=6e40c9&fire=6e40c9&currStreakLabel=ffffff&sideLabels=888888&dates=666666&border_radius=12&stroke=1a1a2e" width="70%" alt="Streak Stats" />
 
 </div>
 
